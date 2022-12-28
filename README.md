@@ -1,10 +1,13 @@
-[![MasterHead](https://stock.adobe.com/in/images/programming-banner-coding-best-programming-languages/194010093)](https://shubhampatel27.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)](https://shubhampatel27.io)
 <h1 align="center">Hi 👋, I'm Shubham Patel</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampatel27" alt="shubhampatel27" /></a> </p>
+<h3 align="center">A Passionate FullStack Developer From India</h3>
 
-<p align="left"> <a href="https://twitter.com/shubhampatel_27" target="blank"><img src="https://img.shields.io/twitter/follow/shubhampatel_27?logo=twitter&style=for-the-badge" alt="shubhampatel_27" /></a> </p>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" align="right">
+
+<p align="left"> <a href="https://twitter.com/Shubhampatel_27" target="blank"><img src="https://img.shields.io/twitter/follow/shubhampatel_27?logo=twitter&style=for-the-badge" alt="shubhampatel_27" /></a> </p>
+  📫 How to reach me <a href = "mailto: shubhampatel0305@gmail.com">shubhampatel0305@gmail.com</a>
+
+- ⚡ Fun fact **Cool But Scary🤨😉!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
